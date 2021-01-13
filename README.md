@@ -1,4 +1,4 @@
-# Super-50-Bros
+# Super Mario Bros
 CS50’s Introduction to Game Development
 
 (CET3 Game Development - BSCOE 2-6)

@@ -10,4 +10,4 @@ Specification:
 - Spawn a colored flags and post at the end of every game.
 - Regenerate another level after it goes to the flags post.
 
-cs50 source code: https://www.github.com/games50/marioz
+cs50 source code: https://www.github.com/games50/mario
